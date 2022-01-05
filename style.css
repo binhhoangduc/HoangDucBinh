@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/icon/themify-icons/themify-icons.css">
+    <title>My CV</title>
+</head>
+<body>
+    <div class="main">
+        <!-- phan dau -->
+        <div id="header">
+
+                <div class="setting">
+                    <img src="./assets/img/avatar/2.jpg" alt="" class="avatar">
+                    <div class="text">
+                        <h1 class="name">
+                            LÊ DƯƠNG HƯNG
+                        </h1>
+                        <p class="des">
+                            Front-end Developer
+                        </p>
+                    </div>
+
+                    <div class="slogan" style="margin-left: 5px;">
+                        <p class="s-name">
+                            Enjoy the little things in life
+                        </p>
+                        <p class="s-des">
+                            For one day you will look back and realize they were the big things.
+                        </p>
+                    </div>
+
+
+
+                </div>
+
+
+        </div>
+
+        <!-- phan giua -->
+        <div id="content">
+            <!-- ben trai -->
+            <div class="content-left">
+                <div class="content-left-1">
+                    <div class="content-left-header">
+                        <h2 class="Khung font-20">
+                            Liên Hệ
+                        </h2>
+                    </div>
+                    <div class="content-left-des">
+                        <ul class="none-list">
+                            <li>
+                                <i class="ti-gift">
+                                    23/4/1999
+                                </i>
+                            </li>
+                            <li>
+                                <i class="ti-location-pin">
+                                    Điện Nam Đông, Điện Bàn, Quảng Nam
+                                </i>
+                            </li>
+                            <li>
+                                <i class="ti-mobile">
+                                    0796695994
+                                </i>
+                            </li>
+                            <li>
+                                <i class="ti-facebook">
+                                    https://www.facebook.com/hungreo.heorun/
+                                </i>
+                            </li>
+                            <li>
+                                <i class="ti-google">
+                                    leduonghung1999@gmail.com
+                                </i>
+                            </li>
+
+                        </ul>
+
+                    </div>
+                </div>
+
+                <div class="content-left-2">
+                    <div class="content-left-header">
+                        <h2 class="Khung">
+                            Kỹ Năng
+                        </h2>   
+                    </div>
+                    <div class="content-left-des">
+                        <ul class="none-list">
+                            <!-- tieng anh -->
+                            <li>
+                                <div class="none-list-header">
+                                    <p>
+                                        Tiếng Anh
+                                    </p>
+                                    <div class="check">
+                                        <button class="green">
+                                            <p>
+                                                aaaaaaa
+                                            </p>
+                                        </button>
+
+                                        <button class="green">
+                                            <p>
+                                                aaaaaaa
+                                            </p>
+                                        </button>
+
+                                        <button class="silver">
+                                            <p>
+                                                aaaaaaa
+                                            </p>
+                                        </button>
+
+                                        <button class="silver">
+                                            <p>
+                                                aaaaaaa
+                                            </p>
+                                        </button>
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- html -->
+                            <li>
+                                <div class="none-list-header">
+                                    <p>
+                                        HTML
+                                    </p>
+                                    <div class="check">
+                                        <button class="green">
+                                            <p>
+                                                aaaaaaa
+                                            </p>
+                                        </button>
+
+                                        <button class="green">
+                                            <p>
+                                                aaaaaaa
+                                            </p>
+                                        </button>
+
+                                        <button class="silver">
+                                            <p>
+                                                aaaaaaa
+                                            </p>
+                                        </button>
+
+                                        <button class="silver">
+                                            <p>
+                                                aaaaaaa
+                                            </p>
+                                        </button>
+                            </li>
+                            <!-- css -->
+                            <li>
+                                <div class="none-list-header">
+                                    <p>
+                                        CSS
+                                    </p>
+                                    <div class="check">
+                                        <button class="green">
+                                            <p>
+                                                aaaaaaa
+                                            </p>
+                                        </button>
+
+                                        <button class="green">
+                                            <p>
+                                                aaaaaaa
+                                            </p>
+                                        </button>
+
+                                        <button class="silver">
+                                            <p>
+                                                aaaaaaa
+                                            </p>
+                                        </button>
+
+                                        <button class="silver">
+                                            <p>
+                                                aaaaaaa
+                                            </p>
+                                        </button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="content-left-3">
+                    <div class="content-left-header">
+                        <h2 class="Khung">
+                            Chứng chỉ
+                        </h2>
+                    </div>
+                    <div class="content-left-des">
+                        <h3 style="color: green; margin-top: 20px;" >
+                            AXON ACTIVE Vietnam
+                        </h3>
+                        <p>
+                            Course Content
+                        </p>
+                        <ul class="certificate">
+                            <li>Agile Manifesto</li>
+                            <li>Scrum vs Waterfall</li>
+                            <li>Scrum Foundations</li>
+                            <li>Developers, Scrum master</li>
+                            <li>Scrum artifacts</li>
+                            <li>Scrum events</li>
+                        </ul>
+
+                        <h3 style="color: green; margin-top: 20px;">
+                            IELTS
+                        </h3>
+                        <p>
+                            5.0, có thể:
+                        </p>
+                        <ul class="certificate">
+                            <li>Đọc và viết tài liệu tham khảo</li>
+                            <li>Nghe, nói và take note khi thảo luận công việc qua các buổi họpcall với khách hàng</li>
+                            <li>call với khách hàng</li>
+
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="content-left-1">
+                    <div class="content-left-header">
+                        <h2 class="Khung">
+                            Ngôn Ngữ
+                        </h2>
+                    </div>
+
+                    <div class="content-left-des">
+                        <p style="color: green; margin-top: 20px;">
+                            Đã học qua:
+                        </p>
+                        <ul class="certificate">
+                            <li>HTML/CSS</li>
+                            <li>Javascripts</li>
+
+
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="content-left-1">
+                    <div class="content-left-header">
+                        <h2 class="Khung">
+                            Giải Thưởng
+                        </h2>
+                    </div>
+
+                    <div class="content-left-des">
+
+                    </div>
+                </div>
+
+
+            </div>
+            <!-- ben phai -->
+            <div class="content-right">
+                <div class="content-right-intro">
+                    <div class="content-right-header">
+                        <h3>
+                            Giới Thiệu
+                        </h3>
+                    </div>
+                    <div class="content-right-des">
+                        Là sinh viên trường đại học Duy Tân, được học qua các ngôn ngữ HTML/CSS, Javascript, ReactJs, tôi mong muốn tận dụng các kỹ năng và kiến thức của mình để đóng góp cho công ty với vai trò là Front-end developer.
+                    </div>
+                </div>
+
+                <div class="content-right-work">
+                    <div class="content-right-header">
+                        <h3>
+                            Kinh nghiệm làm việc
+                        </h3>
+                    </div>
+                    <div class="content-right-des">
+                        <p style="margin-bottom: 8px;" >
+                            Đã có vài sản phẩm về:
+                        </p>
+                        <ul class="certificate">
+                            <li>Trang web thương mại điện tử</li>
+                            <li>Trang web giới thiệu</li>
+                            <li>Trang web cá nhân</li>
+
+
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="content-right-intro">
+                    <div class="content-right-header">
+                        <h3>
+                            Trình độ học vấn
+                        </h3>
+                    </div>
+                    <div class="content-right-des">
+                        <p style="margin-bottom: 8px; color: green;" >
+                             DUY TAN UNIVERCITY
+                        </p>
+                        <p style="margin-bottom: 8px; " >
+                            Sinh viên năm 4:
+                        </p>
+                        <ul class="certificate">
+                            <li>Project:"Lập trình Web bán hàng" và "Sử dụng AI trong chatbox"</li>
+                            <li>Sử dụng Excel và Access để phân tích thống kê dữ liệu</li>
+                            <li>Có vài sản phẩm cá nhân trong lúc thực hành các kiến thức phổ thông</li>
+
+
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="content-right-intro">
+                    <div class="content-right-header">
+                        <h3>
+                            Hoạt động
+                        </h3>
+                    </div>
+                    <div class="content-right-des">
+
+                    </div>
+                </div>
+
+                <div class="content-right-intro">
+                    <div class="content-right-header">
+                        <h3>
+                            Dự án
+                        </h3>
+                    </div>
+                    <div class="content-right-des">
+
+                    </div>
+                </div>
+
+                <div class="content-right-intro">
+                    <div class="content-right-header">
+                        <h3>
+                            Điều quan tâm
+                        </h3>
+                    </div>
+                    <div class="content-right-des">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- phan cuoi -->
+        <div id="footer">
+
+        </div> 
+    </div>
+
+
+</body>
+</html> 
